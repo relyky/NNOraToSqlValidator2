@@ -1,0 +1,14 @@
+E:\VS2008Project\NNOraToSqlValidator2\bin\Release\Database1.sdf
+E:\VS2008Project\NNOraToSqlValidator2\bin\Release\NNOraToSqlValidator2.exe.config
+E:\VS2008Project\NNOraToSqlValidator2\bin\Release\NNOraToSqlValidator2.exe
+E:\VS2008Project\NNOraToSqlValidator2\bin\Release\NNOraToSqlValidator2.pdb
+E:\VS2008Project\NNOraToSqlValidator2\obj\Release\ResolveAssemblyReference.cache
+E:\VS2008Project\NNOraToSqlValidator2\obj\Release\NNOraToSqlValidator2.Form1.resources
+E:\VS2008Project\NNOraToSqlValidator2\obj\Release\NNOraToSqlValidator2.Form2.resources
+E:\VS2008Project\NNOraToSqlValidator2\obj\Release\NNOraToSqlValidator2.MainFrame.resources
+E:\VS2008Project\NNOraToSqlValidator2\obj\Release\NNOraToSqlValidator2.Properties.Resources.resources
+E:\VS2008Project\NNOraToSqlValidator2\obj\Release\NNOraToSqlValidator2.csproj.GenerateResource.Cache
+E:\VS2008Project\NNOraToSqlValidator2\obj\Release\NNOraToSqlValidator2.exe
+E:\VS2008Project\NNOraToSqlValidator2\obj\Release\NNOraToSqlValidator2.pdb
+E:\VS2008Project\NNOraToSqlValidator2\obj\Release\NNOraToSqlValidator2.Form3.resources
+E:\VS2008Project\NNOraToSqlValidator2\obj\Release\NNOraToSqlValidator2.Form4.resources
